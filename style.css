@@ -1,0 +1,162 @@
+.cen{
+  text-align: center;
+}
+.marg{
+  padding: 0px;
+}
+.bar{
+  color: red;
+}
+.color{
+  color: #e74c3c;
+}
+.body{
+  background-color:#2ecc71;
+}
+
+
+.titlu{
+  font-size: 16px;
+  color: #34495e;
+  font-family: "Book Antiqua",Palatino,"Palatino Linotype","Palatino LT STD",Georgia,serif;
+  font-weight: bold;
+}
+
+.text{
+  
+  text-align: justify;
+  font-family: "Avant Garde",Avantgarde,"Century Gothic",CenturyGothic,AppleGothic,sans-serif;
+  font-size:18px;
+  color: #ecf0f1;
+
+}
+.border{
+    border-radius: 3em;
+    opacity: 0.7;
+  }
+
+  .border2{
+    border-radius: 1em;
+    border: 1px solid #bdc3c7;
+    margin: 3%;
+    height: 250px;
+  }
+
+  .dr{
+    float: right;
+    margin-top: 10px;
+  }
+
+  .st{
+    margin-left: 10px;
+    float: left;
+  }
+
+  .filtru{
+    filter:sepia(100%);
+  }
+  .model{
+    float: right;
+    margin-top: 10%;
+    margin-right: 10%;
+    text-align: right;
+    font-family: "Lucida Bright",Georgia,serif
+  }
+
+  .model2{
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+  }
+
+  .model3{
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    border-radius: 0.5em;
+    opacity: 0.8;
+
+  }
+
+  .col1{
+    color: #ecf0f1;
+  }
+  .col2{
+    color: #9b59b6;
+  }
+   .col3{
+    color: #e67e22;
+  }
+  .col4{
+    color: #e74c3c;
+  }
+  .col5{
+    color: #34495e;
+  }
+
+  .bck1{
+    background-color: #9b59b6;
+  }
+  .bck2{
+    background-color: #e67e22;
+  }
+  .bck3{
+    background-color: #e74c3c;
+  }
+  .bck4{
+    background-color: #34495e;
+  }
+  .bck5{
+    background-color: #d35400;
+  }
+  .bck6{
+    background-color: #f1c40f;
+  }
+
+  .comm{
+    margin-top: 30px;
+    width: 200px;
+    text-align: right;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 30px;
+
+
+  }
+
+  .cub{
+    width: 25px;
+    height: 25px;
+  }
+
+.butt{
+  margin: 20px;
+}
+
+.font-box{
+  font-size: 25px;
+  color: #e67e22;
+  font-family: Impact,Haettenschweiler,"Franklin Gothic Bold",Charcoal,"Helvetica Inserat","Bitstream Vera Sans Bold","Arial Black","sans serif";
+}
+
+.mar2{
+  margin-left: 30px;
+}
+
+.lista{
+  font-family: "Avant Garde",Avantgarde,"Century Gothic",CenturyGothic,AppleGothic,sans-serif;
+  font-size:16px;
+  color: #ecf0f1;
+}
+
+.poz1{
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+
+.panel-footer{
+  height: 50px;
+}
